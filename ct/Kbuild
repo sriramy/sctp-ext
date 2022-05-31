@@ -1,0 +1,4 @@
+# SPDX-License-Identifier: GPL-2.0
+# kbuild part of makefile
+obj-m := nf_conntrack_proto_sctp.o
+#nf_conntrack_proto_sctp-y := nf_conntrack_proto_sctp.o
